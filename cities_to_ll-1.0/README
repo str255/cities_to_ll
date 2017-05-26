@@ -1,0 +1,9 @@
+cities_to_ll is an open source GPL command line utility returns geographic latitude and longitude
+for city name input.
+
+example:
+
+./cities_to_ll -t "las vegas" 
+option -t with value `las vegas'
+search_term |Las Vegas| 9
+Las Vegas, NV, US, 36.174969, -115.137222
